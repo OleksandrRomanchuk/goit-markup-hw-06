@@ -962,6 +962,10 @@ textarea {
   display: flex;
   align-items: center;
   margin-top: 20px;
+
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 
 .agreement .icon {
@@ -996,6 +1000,8 @@ textarea {
 
 .terms {
   margin-left: 3px;
+
+  color: var(--hover-focus-color);
 }
 
 .contact-us button {
